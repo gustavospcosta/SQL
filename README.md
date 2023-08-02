@@ -8,7 +8,7 @@
 ## Topics
 * [Project Description](#project-description) :us:
 * [Descrição do Projeto](#descrição-do-projeto) :brazil:
-  
+
 ## Project Description
 <p align="justify">
 This project aims to manage and analyze data, specifically targeting the areas of technical support chat consultations and outage logging. The focus is to assess and maintain the quality of service by monitoring chat interactions and identifying any abnormal behavior, such as delays or jumps in the queue. The project also includes an outage management module, responsible for maintaining a log of network outages and their related details. By providing valuable insights into communication patterns and network stability, the project supports the organization's overall customer service objectives.
